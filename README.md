@@ -3,6 +3,6 @@
 
 
 
-[![instagram][https://user-images.githubusercontent.com/73064753/187272791-450e4821-439a-4355-ae6c-3c84250cb246.png]][https://www.instagram.com/qemermustafa/]
+[[instagram][https://user-images.githubusercontent.com/73064753/187272791-450e4821-439a-4355-ae6c-3c84250cb246.png]][https://www.instagram.com/qemermustafa/]
 
 
