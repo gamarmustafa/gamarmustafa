@@ -1,4 +1,4 @@
-## Hey, I'm Gamar👋
+# Hey, I'm Gamar👋
 
 <!--
 **gamarmustafa/gamarmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
