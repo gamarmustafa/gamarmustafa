@@ -16,4 +16,4 @@
   </a>
 </div>
 
-<h3 align = "center"> I am currently learning Kotlin and Android SDK! </h3> 
+
